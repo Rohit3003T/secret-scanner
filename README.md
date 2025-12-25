@@ -33,7 +33,7 @@ This tool helps developers catch accidental leaks **before pushing code to GitHu
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/secret-scanner.git
+git clone https://github.com/Rohit3003T/secret-scanner.git
 cd secret-scanner
 pip install -r requirements.txt
 secret-scan /path/to/your/project
